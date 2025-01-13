@@ -5,6 +5,11 @@ considering a block of metal having dimensions L,W and h.and n is the charge per
 we need to calculate current I_R and the voltage is V_R,across the length of metal.so the current is 
 \( i_r = \frac{\Delta q}{\Delta t} \)
 
+$$
+i_r = \frac{\Delta q}{\Delta t}
+$$
+
+
 
 
 
