@@ -23,13 +23,16 @@ and Vd=average velocity
 
 $$ V_d = \frac{\partial x}{\partial t} = \mu \cdot E $$
 
-$$ E = \frac{\partial v}{\partial x} $$ and \mu is the mobility of the material
+$$ E = \frac{\partial v}{\partial x} $$
+
+
+ and \mu is the mobility of the material
+
 
 therefore 
 
 
-
-\[ IR = \mu \cdot Q_s \cdot \frac{\partial v}{\partial x} \]
+$$IR = \mu \cdot Q_s \cdot \frac{\partial v}{\partial x}$$
 
 
 the incremental resistance can be expressed
@@ -56,7 +59,9 @@ where
 
 is the sheet-rho
 
-the specific resistance in ohm cm and unit resistance 
+the specific resistance in ohm cm and unit resistance
+
+ 
 
 
 
