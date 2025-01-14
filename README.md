@@ -38,8 +38,7 @@ $$IR = \mu \cdot Q_s \cdot \frac{\partial v}{\partial x}$$
 the incremental resistance can be expressed
 
 
-
-\[ \Delta R = \frac{\Delta v}{IR} = \frac{\rho \cdot \Delta x}{W \cdot h} \]
+$$Delta R = \frac{\Delta v}{IR} = \frac{\rho \cdot \Delta x}{W \cdot h}$$
 
 
 where rho is the specific resistvity which is the proprty of materiall that can be defined as the resistance per unit volume which is expressed as ohm meter but oftern used as ohmcm.
@@ -48,7 +47,7 @@ the total resistance of the volume can be founded by
 
 
 
-\[ R = \rho \cdot \frac{L}{A} \]
+$$R = \rho \cdot \frac{L}{A} $$
 
 
 where 
