@@ -58,7 +58,41 @@ where
 
 is the sheet-rho
 
-the specific resistance in ohm cm and unit resistance
+Calculate the resistance of an aluminum wire with the following dimension: L= 100\mu, W=1Um, h=0.5 Um $$ \mu m $$
+
+| material | Resistivity | resistance | sheet-row| melting pt. | cost/100gm| Temp cof of resistance |
+|----------|----------|----------|----------|----------|----------|----------|
+| Aluminium  |    2.65      |     2.65     |26.5          |660          |24.4          |0.00429          |
+| copper  |  1.68        |1.68          |16.8          |1084.62          |85.3          |0.00386          |
+| Gold   | 2.44         |   2.44       |    24.4      |  1064.18        |  77000        |  0.0034        |
+
+
+
+
+
+
+
+
+|
+
+DAY2
+
+|  | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 | Column 7 |
+|----------|----------|----------|----------|----------|----------|----------|
+| Row 1    |          |          |          |          |          |          |
+| Row 2    |          |          |          |          |          |          |
+| Row 3    |          |          |          |          |          |          |
+| Row 4    |          |          |          |          |          |          |
+| Row 5    |          |          |          |          |          |          |
+| Row 6    |          |          |          |          |          |          |
+
+Feel free to fill in the blanks as you need! If there's anything specific you'd like in the table, just let me know.
+
+
+
+
+
+
 
  
 
